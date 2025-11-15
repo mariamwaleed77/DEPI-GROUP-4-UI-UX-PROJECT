@@ -28,4 +28,6 @@ Improving the quality of life for diabetes patients through a simple, supportive
 
 ## DRIVE LINK
 - https://drive.google.com/drive/folders/1JZGPquJ8-5Y5oiG1yYGqBsMPAN9__pnv?usp=drive_link
+## FIGMA LINK
+-https://www.figma.com/design/62XPaH4P9YJWqRssDu6u1x/project?node-id=161-673&t=AvQwrUngMSj2Xw3A-1
 
